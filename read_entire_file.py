@@ -1,5 +1,5 @@
 # 📂 Reading Files
-with open('data.txt', 'r') as file:
+with open('Numbers_Out.txt', 'r') as file:
     content = file.read()  # Reads entire file
     print(content)  # Prints the entire file content
     
